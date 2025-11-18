@@ -26,8 +26,8 @@ To find the longest string (or strings) that is a substring (or are substrings) 
 
 ## Program :
 
-### Developed by: ESHWAR T
-### Register Number:  212223230054
+### Developed by: VIGNESH M
+### Register Number: 212223240176
 
 ```
 def LCS(X, Y, m, n):
